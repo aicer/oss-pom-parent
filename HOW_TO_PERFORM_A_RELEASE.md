@@ -11,7 +11,6 @@ Run the following command to deploy a SNAPSHOT
 
 ```shell
 $ mvn clean deploy
-
 ```
 
 The following steps allow us to prepare the release
@@ -41,3 +40,4 @@ Then the next step is to select the item and release it from the UI.
 The artifacts will be synced to the central repository in approximately 2 hours.
 
 If you are having issues with the artifacts you can drop them from the UI as well.
+
